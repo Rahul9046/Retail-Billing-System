@@ -1,4 +1,4 @@
-The project "Retail Billing System" is an application to automate the process of ordering and billing of a "Departmental store".This application is designed considering the chain of deartmental store which is located in various cities.This application also administrates its users and customers.
+The project "Retail Billing System" is an application to automate the process of ordering and billing of a "Departmental store".This application is designed considering the chain of departmental store which is located in various cities.This application also administrates its users and customers.
 
 This project will serve the following objectives :-
 1. Add and maintain records of available products.
