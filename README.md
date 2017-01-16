@@ -7,4 +7,4 @@ This project will serve the following objectives :-
 4. Add and maintain newly entered category of products.
 5. Provides economic/financial reports to the owner weekly, monthly and yearly.
 6. Provides a convenient solution of billing pattern.
-7. Make an easy to use environment for users and customers.
+7. Makes an easy to use environment for users and customers.
